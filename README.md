@@ -30,3 +30,17 @@ https://github.com/ninomae-makoto/kaggle/blob/master/titanic01.ipynb
 画像データの水増し処理追加
 Score: 0.99571
 https://github.com/ninomae-makoto/kaggle/blob/master/titanic02.ipynb
+
+# House Prices: Advanced Regression Techniques
+
+## 概要
+住宅の価格予測
+
+## ソースコード
+
+### 可視化
+https://github.com/ninomae-makoto/kaggle/blob/master/house-prices_visualize.ipynb
+
+### 一例
+Score: 0.18858
+https://github.com/ninomae-makoto/kaggle/blob/master/house-prices01.ipynb
